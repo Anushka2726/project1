@@ -1,2 +1,3 @@
 # project1
-beginer git
+my 1st repo
+anushka
